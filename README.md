@@ -1,5 +1,6 @@
 Hi 📚🤝 I'm Sudhanshu Patel
 
+A Passionate MERN Stack Developer And C++ code
 
 🌱 I’m currently learning Nodejs
 
