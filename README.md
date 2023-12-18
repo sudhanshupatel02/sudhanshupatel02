@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshupatel02&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshupatel02" /> </p>
                                                         Hi 📚🤝 I'm Sudhanshu Patel
 
-🌱 I’m currently learning Nodejs
+🌱 I’m currently learning Nodejs and Open Source
 
 💬 Ask me about C/C++ ,HTML ,CSS ,JavaScript ,Bootstrap, Tailwind, Reactjs, NodeJs, ExpressJs and Mongodb
 
