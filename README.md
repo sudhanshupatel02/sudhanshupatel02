@@ -3,10 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshupatel02&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshupatel02" /> </p>
                                                         Hi 📚🤝 I'm Sudhanshu Patel
 
-🌱 I’m currently learning Nodejs and Open Source
+🌱 I’m currently learning JavaScript Problem solving code
 
-💬 Ask me about C/C++, DSA, Frontend Developer(HTML ,CSS ,JavaScript ,Bootstrap, Tailwind, Reactjs)
-                      Backend Developer(NodeJs, ExpressJs, Mongodb)
+💬 Ask me about C/C++, DSA, Frontend Developer(HTML ,CSS ,JavaScript ,Bootstrap, Tailwind, Reactjs), Backend Developer(NodeJs, ExpressJs, Mongodb)
 
 📫 How to reach me sudhanshupatel0207@gmail.com
 
