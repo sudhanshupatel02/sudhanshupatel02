@@ -5,7 +5,8 @@
 
 🌱 I’m currently learning Nodejs and Open Source
 
-💬 Ask me about C/C++ ,HTML ,CSS ,JavaScript ,Bootstrap, Tailwind, Reactjs, NodeJs, ExpressJs and Mongodb
+💬 Ask me about C/C++, DSA, Frontend Developer(HTML ,CSS ,JavaScript ,Bootstrap, Tailwind, Reactjs)
+                      Backend Developer(NodeJs, ExpressJs, Mongodb)
 
 📫 How to reach me sudhanshupatel0207@gmail.com
 
